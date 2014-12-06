@@ -5,7 +5,7 @@ published: true
 ---
 
 ### Estrogen receptors
-[Zhu J, Zhao C, Kharman-biz A, _et al_. The atypical ubiquitin ligase RNF31 stabilizes estrogen receptor α and modulates estrogen-stimulated breast cancer cell proliferation. Oncogene. 2014.](http://www.ncbi.nlm.nih.gov/pubmed/?term=24441041)
+<span style="font-size: 2px;">[Zhu J, Zhao C, Kharman-biz A, _et al_. The atypical ubiquitin ligase RNF31 stabilizes estrogen receptor α and modulates estrogen-stimulated breast cancer cell proliferation. Oncogene. 2014.](http://www.ncbi.nlm.nih.gov/pubmed/?term=24441041)</span>
 
 [Katchy A, Pinto C, Jonsson P, _et al_. Coexposure to phytoestrogens and bisphenol a mimics estrogenic effects in an additive manner. Toxicol Sci. 2014;138(1):21-35.](http://www.ncbi.nlm.nih.gov/pubmed/?term=24284790)
 
