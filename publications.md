@@ -18,7 +18,7 @@ published: true
 [Edvardsson K, Ström A, Jonsson P, Gustafsson JÅ, Williams C. Estrogen receptor β induces antiinflammatory and antitumorigenic networks in colon cancer cells. Mol Endocrinol. 2011;25(6):969-79.](http://www.ncbi.nlm.nih.gov/pubmed/?term=21493669)
 
 [Alvarez-baron CP, Jonsson P, Thomas C, Dryer SE, Williams C. The two-pore domain potassium channel KCNK5: induction by estrogen receptor alpha and role in proliferation of breast cancer cells. Mol Endocrinol. 2011;25(8):1326-36.](http://www.ncbi.nlm.nih.gov/pubmed/?term=21680658)  
-* * *
+
 ### Other nuclear receptors
 [Candelaria NR, Addanki S, Zheng J, _et al_. Antiproliferative effects and mechanisms of liver x receptor ligands in pancreatic ductal adenocarcinoma cells. PLoS ONE. 2014;9(9):e106289.](http://www.ncbi.nlm.nih.gov/pubmed/?term=25184494)
 
