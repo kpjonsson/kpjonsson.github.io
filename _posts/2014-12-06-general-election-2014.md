@@ -7,6 +7,7 @@ tags: [d3.js, Sweden, bar chart]
 
 This is my first attempt at making any type of graph using d3.js. I'm rather content with the outcome.
 
+<html>
 <style>
  	.axis path,
 	.axis line {
@@ -188,3 +189,4 @@ This is my first attempt at making any type of graph using d3.js. I'm rather con
 	d3.csv("../_data/nuvarande_ledamoter_RLK.csv", draw);
 
   </script>
+  </html>
