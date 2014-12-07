@@ -7,8 +7,8 @@ tags: [d3.js, Sweden, bar chart]
 
 This is my first attempt at making any type of graph using d3.js. I'm rather content with the outcome.
 
-<html>
-<style\>
+<style>
+
  	.axis path,
 	.axis line {
   		fill: none;
@@ -35,12 +35,14 @@ This is my first attempt at making any type of graph using d3.js. I'm rather con
 		font-family: 'Helvetica';
 	}
 
- </style\>  
- </head>
+ </style>  
+ 
  <body>
+ 
  	<h1>Swedish general elections 2014</h1>
  	<h2>Total seats: 349</h1>
  </body>
+ 
  	<script type="text/javascript"\>
 
  	// function to draw chart	
@@ -188,5 +190,5 @@ This is my first attempt at making any type of graph using d3.js. I'm rather con
   	// load csv file
 	d3.csv("../_data/nuvarande_ledamoter_RLK.csv", draw);
 
-  </script\>
+  </script>
   </html>
