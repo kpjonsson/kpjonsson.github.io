@@ -154,6 +154,6 @@ This is my first attempt at making any type of graph using d3.js. I'm rather con
   	}
 
   	// load csv file
-	d3.csv("../_data/nuvarande_ledamoter_RLK.csv", draw);
+	d3.csv("/_data/nuvarande_ledamoter_RLK.csv", draw);
 
   </script>
