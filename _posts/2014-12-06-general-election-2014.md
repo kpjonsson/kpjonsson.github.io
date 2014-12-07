@@ -1,5 +1,4 @@
 ---
-published: false
 title: Sweden's general election 2014
 layout: post
 tags: [d3.js, Sweden, bar chart]
