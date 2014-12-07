@@ -6,44 +6,10 @@ tags: [d3.js, Sweden, bar chart]
 
 This is my first attempt at making any type of graph using d3.js. I'm rather content with the outcome.
 
-<style>
-
- 	.axis path,
-	.axis line {
-  		fill: none;
-  		stroke: #000;
-  		shape-rendering: crispEdges;
-	}
-
-	.tick line {
-		stroke: lightgrey;
-		stroke-opacity: 0.5;
-		shape-rendering: crispEdges;
-	}
-
-	h1 {
-		font-family: 'Helvetica';
-	}
-
-	h2
-	 {
-		font-family: 'Helvetica';
-	}
-
-	text {
-		font-family: 'Helvetica';
-	}
-
- </style>  
- 
- <body>
- 
- 	<h1>Swedish general elections 2014</h1>
- 	<h2>Total seats: 349</h1>
- 	
- </body>
- 
- 	<script type="text/javascript">
+<div id='canvas'></div>
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script type="text/javascript">
 
  	// function to draw chart	
   	function draw(data) {
@@ -75,7 +41,7 @@ This is my first attempt at making any type of graph using d3.js. I'm rather con
   			.rangeBands([margin.left, width - margin.right], 0.2);
 
   		// construct bar chart
-  		var svg = d3.select("body")
+  		var svg = d3.select("div#canvas")
   			.append('svg')
   				.attr("width", width + margin.left + margin.right)
   				.attr("height", height + margin.top + margin.bottom)
