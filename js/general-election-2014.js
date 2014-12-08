@@ -27,7 +27,7 @@ function draw(data) {
   		.rangeBands([margin.left, width - margin.right], 0.2);
 
   	// construct bar chart
-  	var svg = d3.select("body")
+  	var svg = d3.select("#canvas")
   		.append('svg')
   			.attr("width", width + margin.left + margin.right)
   			.attr("height", height + margin.top + margin.bottom)
