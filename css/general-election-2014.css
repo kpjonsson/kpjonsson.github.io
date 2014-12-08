@@ -19,6 +19,7 @@ text {
 }
 
 .d3-tip {
+	font-family: 'Helvetica';
 	font-weight: bold;
 	text-align: center;
 }
