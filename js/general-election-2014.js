@@ -86,7 +86,7 @@ function draw(data) {
 	// 	.attr('y', function(d) { return y(d.values); });
 
 	text.append('text')
-		.text("Seats\nTotal: 349")
+		.text("Total seats: 349")
 		.attr('x', margin.left + 5)
 		.attr('y', margin.top - 5)
 		.attr('text-anchor', 'start');
@@ -116,7 +116,7 @@ function draw(data) {
 	  .attr("x", width - 65)
       .attr("y", function(d, i){ return i *  20;})
 	  .attr("width", 15)
-	  .attr("height", 15)
+	  .attr("height", 15)to
 	  .style("fill", function(d) {
 	  	if (d === 'Alliansen') { return 'rgb(173,216,230)'; }
 	  	else if (d === 'S-V-MP-coalition') { return 'rgb(230,150,173)'; }
