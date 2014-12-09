@@ -14,3 +14,7 @@ text {
 	font-weight: bold;
 	text-align: center;
 }
+
+canvas {
+	text-align: center;
+}
