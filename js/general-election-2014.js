@@ -86,7 +86,7 @@ function draw(data) {
 	// 	.attr('y', function(d) { return y(d.values); });
 
 	text.append('text')
-		.text("Seats")
+		.text("Seats<br>Total: 349")
 		.attr('x', margin.left + 5)
 		.attr('y', margin.top - 5)
 		.attr('text-anchor', 'start');
