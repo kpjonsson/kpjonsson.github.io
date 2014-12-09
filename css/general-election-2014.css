@@ -13,6 +13,7 @@ text {
 	font-family: 'Helvetica';
 	font-weight: bold;
 	text-align: center;
+	font-size: 75%;
 }
 
 #canvas {
