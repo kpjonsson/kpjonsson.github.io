@@ -138,4 +138,4 @@ function draw(data) {
   }
 
   // load csv file
-d3.csv("../assets/nuvarande_ledamoter_RLK.csv", draw);
+d3.csv("../../../../assets/nuvarande_ledamoter_RLK.csv", draw);
