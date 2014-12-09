@@ -15,5 +15,5 @@ This is my first attempt at making a data visualization using [d3.js](d3js.org).
 <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script src="../../../../js/general-election-2014.js"></script>
-<span style="font-size: 50%;">Source: val.se</span>
+<span style="font-size: 75% text-align: right;">Source: val.se</span>
 * * *
