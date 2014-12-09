@@ -116,7 +116,7 @@ function draw(data) {
 	  .attr("x", width - 65)
       .attr("y", function(d, i){ return i *  20;})
 	  .attr("width", 15)
-	  .attr("height", 15)to
+	  .attr("height", 15)
 	  .style("fill", function(d) {
 	  	if (d === 'Alliansen') { return 'rgb(173,216,230)'; }
 	  	else if (d === 'S-V-MP-coalition') { return 'rgb(230,150,173)'; }
