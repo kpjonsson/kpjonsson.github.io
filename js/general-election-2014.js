@@ -27,7 +27,7 @@ function draw(data) {
   		.rangeBands([margin.left, width - margin.right], 0.2);
 
   	// construct bar chart
-  	var svg = d3.select("#canvas")
+  	var svg = d3.select("#election-barchart")
   		.append('svg')
   			.attr("width", width + margin.left + margin.right)
   			.attr("height", height + margin.top + margin.bottom)
@@ -138,4 +138,4 @@ function draw(data) {
   }
 
   // load csv file
-d3.csv("../../../../assets/nuvarande_ledamoter_RLK.csv", draw);
+d3.csv("../../../../data/nuvarande_ledamoter_RLK.csv", draw);

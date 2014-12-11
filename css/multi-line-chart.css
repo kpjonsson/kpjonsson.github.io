@@ -1,0 +1,23 @@
+#multi-line-chart {
+	font: 10px sans-serif;
+}
+
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.stock text {
+  font-weight: bold;
+}
