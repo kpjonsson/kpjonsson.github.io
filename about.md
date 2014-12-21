@@ -4,9 +4,8 @@ title: About
 published: true
 ---
 
-Biologist, stuck at the computer.
-From Sweden, living in Houston, TX. 
-
-
-## Contact
-[E-mail me](mailto:philip.jonsson@gmail.com).
+<div id="pdf">
+  <object width="400" height="500" type="application/pdf" data="../../data/resume.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0" id="pdf_content">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+  </object>
+</div>
