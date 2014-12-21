@@ -24,3 +24,14 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+  
+  # Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider: google
+  google: 
+      tracking_id: 'UA-57835362-1'
+  getclicky:
+    site_id:
