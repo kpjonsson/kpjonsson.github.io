@@ -8,14 +8,15 @@ published: true
 Ph.D. Cell and molecular biology
 <br>M.Sc. Biotechnology
 
-<h3>About me</h3>
 I am a biologist by training with an interest in the analysis and visualization of data. My graduate studies concerned nuclear-receptor signaling in human cancers employing wet-lab and computational tools. Outside of research I indulge in soccer, food, and music. I am a proud speaker of Mexican Spanish.
+
 
 <h3>Contact</h3>
 [E-mail](mailto:philip.jonsson@gmail.com) or [tweet me](http://twitter.com/home?status=What do you have to say to @the_pjonsson).
 <br>[LinkedIn](www.linkedin.com/pub/philip-jonsson/18/81b/524/)
 
-<h3>Publications</h3><span font-size=75%>
+
+<h3>Publications</h3>
 <span itemprop="name">Candelaria <i>et al</i>. 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=25184494" itemprop="url" title="Antiproliferative effects and mechanisms of liver X receptor ligands in pancreatic ductal adenocarcinoma cells">Antiproliferative effects and mechanisms of liver X receptor ligands in pancreatic ductal adenocarcinoma cells.</a></span> PLoS One. <span itemprop="datePublished">Sep 2014.</span></p>
 
