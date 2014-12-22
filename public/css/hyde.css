@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Inconsolata, "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -86,7 +86,7 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 .sidebar-nav-item {
   display: block;
