@@ -16,5 +16,4 @@ In my endeavour to learn d3.js I find its creator Mike Bostock's set of [bl.ocks
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script src="../../../../js/multi-line-chart.js"></script>
 <span style="font-size: 75%; text-align: right;">Source: [Yahoo! Finance](http://http://finance.yahoo.com/)</span>
-<aside>Test</aside>
 * * *
